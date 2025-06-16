@@ -1,0 +1,1 @@
+// query-provider.tsx placeholder

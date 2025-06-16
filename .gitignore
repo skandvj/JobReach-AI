@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+.env
+.env.local
+.env.*.local
+.next/
+dist/
+out/
+build/
+coverage/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.venv/
+venv/
+env/
+uploads/
+.idea/
+*.db
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+*.sock
+
+# Other env patterns
+*.env.*
+.env.*
